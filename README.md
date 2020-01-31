@@ -12,6 +12,9 @@ Create API:
         "exiprytime": 200
               }
        }
+//Value part we can git as any form of json it should accept. 
+"value "  :{"value" : {[1,2,3]}}      
+       
  
 Read API:
  	GET: http://localhost:8080/test/get/KeyName
